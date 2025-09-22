@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ahcc-cursos
+  profiles:
+    active: development
+  config:
+    import: optional:configserver:http://root:1234567@localhost:7070
+

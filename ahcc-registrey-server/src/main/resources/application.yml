@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ahcc-registrey-server
+  profiles:
+    active: development
+  config:
+    import: optional:configserver:http://root:1234567@localhost:7070
+
