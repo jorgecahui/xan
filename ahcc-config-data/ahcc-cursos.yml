@@ -5,7 +5,7 @@ spring:
     name: ahcc-cursos
 
   datasource:
-    url: jdbc:mysql://localhost:3306/ahcc-cursosdb
+    url: jdbc:mysql://localhost:3306/ahcc_cursosdb
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
