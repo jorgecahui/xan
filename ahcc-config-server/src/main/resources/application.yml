@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/alexanderhuahuacccapacc/Examen_Unidada_1.git # ruta del repositorio git
+          uri: https://github.com/jorgecahui/xan.git # ruta del repositorio git
           searchPaths: ahcc-config-data
           default-label: main
   security:
